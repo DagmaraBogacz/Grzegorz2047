@@ -5,6 +5,6 @@ Strona nie wymaga PHP ani MySQL. To tylko jeden plik HTML.
 
 Był to bardziej dla mnie mały projekt, chciałem pobawić się DataTables w wolnym czasie.
 
-### [Zobacz demo](http://wruczek.github.io/Grzegorz2047/)
+### [Zobacz demo](https://wruczek.github.io/Grzegorz2047/)
 
 Licencja: MIT.
